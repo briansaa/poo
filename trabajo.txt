@@ -1,1 +1,10 @@
 ejemplo
+
+dias de la semana
+lunes 
+marte
+miercoles 
+jueves 
+viernes
+sabado
+domingo
